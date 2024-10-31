@@ -18,7 +18,7 @@ This project demonstrates a simple GAN architecture to generate images resemblin
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/username/project-name.git
+    git clone https://github.com/yusufshihata/GAN.git
     cd project-name
     ```
 
@@ -66,7 +66,7 @@ The Discriminator network takes an image and attempts to classify it as real or 
 
 The generator improves over epochs, producing increasingly realistic images of handwritten digits. Here’s an example of generated digits after a few training epochs:
 
-![Example](generated_images/fake_images_epoch_10.png)
+![Example](generated_images/epoch_50.png)
 
 ## References
 
