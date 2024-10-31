@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 
 # Ignore generated images and data files
-generated_images/
 data/
 
 # Ignore system files
