@@ -69,6 +69,7 @@ The generator improves over epochs, producing increasingly realistic images of h
 <div>
     <img src="output/epoch_50.png" alt="Generated Image 50" style="width: 300px; margin-right: 10px;"/>
     <img src="output/epoch_20.png" alt="Generated Image 20" style="width: 300px; margin-right: 10px;"/>
+    <img src="output/epoch_30.png" alt="Generated Image 20" style="width: 300px; margin-right: 10px;"/>
 </div>
 
 ## References
