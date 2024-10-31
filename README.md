@@ -19,7 +19,7 @@ This project demonstrates a simple GAN architecture to generate images resemblin
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/yusufshihata/GAN.git
-    cd project-name
+    cd GAN
     ```
 
 2. **Set up the environment**:
@@ -42,10 +42,10 @@ This project demonstrates a simple GAN architecture to generate images resemblin
     python src/main.py
     ```
 
-    This will train the GAN model on the MNIST dataset, saving generated images at the end of each epoch in the `generated_images` folder.
+    This will train the GAN model on the MNIST dataset, saving generated images at the end of each epoch in the `output` folder.
 
 2. **Viewing Generated Images**:
-   - Each epoch, the model generates sample images saved in `generated_images/`.
+   - Each epoch, the model generates sample images saved in `output/`.
    - To visualize images, you can use the `show_image` function from `utils/show_imgs.py`.
 
 ## Model Architecture
