@@ -67,9 +67,9 @@ The Discriminator network takes an image and attempts to classify it as real or 
 The generator improves over epochs, producing increasingly realistic images of handwritten digits. Here’s an example of generated digits after a few training epochs:
 
 <div>
-    <img src="output/epoch_50.png" alt="Generated Image 50" style="width: 300px; margin-right: 10px;"/>
-    <img src="output/epoch_20.png" alt="Generated Image 20" style="width: 300px; margin-right: 10px;"/>
-    <img src="output/epoch_30.png" alt="Generated Image 20" style="width: 300px; margin-right: 10px;"/>
+    <img src="output/epoch_50.png" alt="Generated Image 50" style="width: 250px; margin-right: 10px;"/>
+    <img src="output/epoch_20.png" alt="Generated Image 20" style="width: 250px; margin-right: 10px;"/>
+    <img src="output/epoch_30.png" alt="Generated Image 20" style="width: 250px; margin-right: 10px;"/>
 </div>
 
 ## References
