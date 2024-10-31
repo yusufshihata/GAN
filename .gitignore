@@ -1,0 +1,10 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore generated images and data files
+generated_images/
+data/
+
+# Ignore system files
+.DS_Store
